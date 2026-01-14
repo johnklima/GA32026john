@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{c8af2b8b-7731-4bdd-b7e2-27cd7e1d250d}">
+		<property name="assetPath">
+			<value>ELECEmf_Electromagnetic05_InMotionAudio_Electromagnesis Samples Volume 1.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>26.716354166666665</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{6663061e-4794-46d4-b370-e03df329fc21}</destination>
+		</relationship>
+	</object>
+</objects>
