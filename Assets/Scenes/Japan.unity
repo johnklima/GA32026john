@@ -227,7 +227,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 10, y: 1, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -617,7 +617,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 350395726041736099, guid: 91dd097ef7846004093f628ed20dcfdb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.00000018345918
+      value: 1.3
       objectReference: {fileID: 0}
     - target: {fileID: 350395726041736099, guid: 91dd097ef7846004093f628ed20dcfdb, type: 3}
       propertyPath: m_LocalPosition.z
@@ -655,8 +655,24 @@ PrefabInstance:
       propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3533517984533355331, guid: 91dd097ef7846004093f628ed20dcfdb, type: 3}
+      propertyPath: dstFromTarget
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3533517984533355331, guid: 91dd097ef7846004093f628ed20dcfdb, type: 3}
+      propertyPath: pitchMinMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3533517984533355331, guid: 91dd097ef7846004093f628ed20dcfdb, type: 3}
+      propertyPath: pitchMinMax.y
+      value: 60
+      objectReference: {fileID: 0}
     - target: {fileID: 3772953377948841228, guid: 91dd097ef7846004093f628ed20dcfdb, type: 3}
       propertyPath: bUseCameraControlRotation
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6338040598380446936, guid: 91dd097ef7846004093f628ed20dcfdb, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6578321730198702606, guid: 91dd097ef7846004093f628ed20dcfdb, type: 3}
@@ -667,13 +683,21 @@ PrefabInstance:
       propertyPath: m_LocalPosition.y
       value: 3.021
       objectReference: {fileID: 0}
+    - target: {fileID: 7250280497008728569, guid: 91dd097ef7846004093f628ed20dcfdb, type: 3}
+      propertyPath: m_Height
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7250280497008728569, guid: 91dd097ef7846004093f628ed20dcfdb, type: 3}
+      propertyPath: m_Center.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8158692787495693442, guid: 91dd097ef7846004093f628ed20dcfdb, type: 3}
       propertyPath: m_Name
       value: PlayerThird
       objectReference: {fileID: 0}
     - target: {fileID: 8304591028167307440, guid: 91dd097ef7846004093f628ed20dcfdb, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.614
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 4006066258572588858, guid: 91dd097ef7846004093f628ed20dcfdb, type: 3}
