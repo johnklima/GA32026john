@@ -605,7 +605,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: 
   paramName: 
-  objToShow: {fileID: 0}
 --- !u!1 &161939742
 GameObject:
   m_ObjectHideFlags: 0
@@ -627,7 +626,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &161939743
 Transform:
   m_ObjectHideFlags: 0
@@ -834,7 +833,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: ninja
   paramName: ninja
-  objToShow: {fileID: 0}
 --- !u!1 &274727462
 GameObject:
   m_ObjectHideFlags: 0
@@ -883,7 +881,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   narration: Youn need to choose
   paramName: idle
-  objToShow: {fileID: 1868504819}
 --- !u!1 &279274588
 GameObject:
   m_ObjectHideFlags: 0
@@ -905,7 +902,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &279274589
 Transform:
   m_ObjectHideFlags: 0
@@ -1189,7 +1186,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: ninja they call me
   paramName: ninja
-  objToShow: {fileID: 0}
 --- !u!1 &381850146
 GameObject:
   m_ObjectHideFlags: 0
@@ -1211,7 +1207,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &381850147
 Transform:
   m_ObjectHideFlags: 0
@@ -1414,7 +1410,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: Snow
   paramName: snow
-  objToShow: {fileID: 0}
 --- !u!1 &392630130
 GameObject:
   m_ObjectHideFlags: 0
@@ -1766,7 +1761,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &426694660
 Transform:
   m_ObjectHideFlags: 0
@@ -1944,7 +1939,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &546481943
 Transform:
   m_ObjectHideFlags: 0
@@ -2124,7 +2119,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &575973998
 Transform:
   m_ObjectHideFlags: 0
@@ -2329,7 +2324,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: hide was coal
   paramName: 
-  objToShow: {fileID: 0}
 --- !u!1 &633754861
 GameObject:
   m_ObjectHideFlags: 0
@@ -2532,7 +2526,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &756873756
 Transform:
   m_ObjectHideFlags: 0
@@ -2994,7 +2988,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: im cowman
   paramName: cow
-  objToShow: {fileID: 0}
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -3270,7 +3263,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: cow
   paramName: cow
-  objToShow: {fileID: 0}
 --- !u!1 &991873455
 GameObject:
   m_ObjectHideFlags: 0
@@ -3308,7 +3300,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 515.5038, y: 30}
+  m_SizeDelta: {x: 202.7797, y: 30}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &991873457
 MonoBehaviour:
@@ -3519,7 +3511,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: hide was snow
   paramName: snow
-  objToShow: {fileID: 0}
 --- !u!1 &1274719301
 GameObject:
   m_ObjectHideFlags: 0
@@ -3541,7 +3532,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1274719302
 Transform:
   m_ObjectHideFlags: 0
@@ -3730,7 +3721,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 3.6000004, y: -0.15999997, z: 15.84}
-  m_LocalScale: {x: 2, y: 2, z: 2}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 575973998}
@@ -3900,7 +3891,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1363945351
 Transform:
   m_ObjectHideFlags: 0
@@ -4105,7 +4096,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: 'Out jumps a screeming tiny monster '
   paramName: lamb
-  objToShow: {fileID: 0}
 --- !u!1 &1404293352
 GameObject:
   m_ObjectHideFlags: 0
@@ -4155,7 +4145,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: open the little cage
   paramName: little
-  objToShow: {fileID: 0}
 --- !u!1 &1421545877
 GameObject:
   m_ObjectHideFlags: 0
@@ -4281,7 +4270,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: COAL
   paramName: coal
-  objToShow: {fileID: 0}
 --- !u!1 &1519357690
 GameObject:
   m_ObjectHideFlags: 0
@@ -4328,7 +4316,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: snow
   paramName: snow
-  objToShow: {fileID: 0}
 --- !u!1 &1528527597
 GameObject:
   m_ObjectHideFlags: 0
@@ -4556,7 +4543,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: open the big cage
   paramName: big
-  objToShow: {fileID: 0}
 --- !u!1 &1573705530
 GameObject:
   m_ObjectHideFlags: 0
@@ -4603,7 +4589,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: SNOW
   paramName: snow
-  objToShow: {fileID: 0}
 --- !u!1001 &1590893041
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5124,7 +5109,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: Big Lam YO!
   paramName: lamb
-  objToShow: {fileID: 0}
 --- !u!1 &1752550760
 GameObject:
   m_ObjectHideFlags: 0
@@ -5162,7 +5146,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 0, y: -167}
-  m_SizeDelta: {x: 515.5038, y: 30}
+  m_SizeDelta: {x: 202.78, y: 30}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1752550762
 MonoBehaviour:
@@ -5756,7 +5740,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: 
   paramName: 
-  objToShow: {fileID: 0}
 --- !u!1 &1868504818
 GameObject:
   m_ObjectHideFlags: 0
@@ -5915,7 +5898,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: coal
   paramName: coal
-  objToShow: {fileID: 0}
 --- !u!1 &1995469938
 GameObject:
   m_ObjectHideFlags: 0
@@ -5953,7 +5935,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 0, y: -76}
-  m_SizeDelta: {x: 515.5038, y: 30}
+  m_SizeDelta: {x: 202.7797, y: 30}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &1995469940
 MonoBehaviour:
@@ -6095,7 +6077,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: 
   paramName: 
-  objToShow: {fileID: 0}
 --- !u!1 &2048487693
 GameObject:
   m_ObjectHideFlags: 0
@@ -6142,7 +6123,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: 'mARY WENT '
   paramName: 
-  objToShow: {fileID: 0}
 --- !u!1 &2069652434
 GameObject:
   m_ObjectHideFlags: 0
@@ -6291,7 +6271,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: coal
   paramName: coal
-  objToShow: {fileID: 0}
 --- !u!1 &2083627500
 GameObject:
   m_ObjectHideFlags: 0
@@ -6338,7 +6317,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: snow
   paramName: snow
-  objToShow: {fileID: 0}
 --- !u!1 &2090132466
 GameObject:
   m_ObjectHideFlags: 0
@@ -6376,7 +6354,7 @@ RectTransform:
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
   m_AnchoredPosition: {x: 0, y: -242.5}
-  m_SizeDelta: {x: 515.5038, y: 30}
+  m_SizeDelta: {x: 202.78, y: 30}
   m_Pivot: {x: 0, y: 1}
 --- !u!114 &2090132468
 MonoBehaviour:
