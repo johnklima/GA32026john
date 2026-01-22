@@ -115,11 +115,7 @@ public class TheStory : MonoBehaviour
             //text2.text = first.GetChild(i).name;   //little () an/or bic (1)
             text2.text = narrate2;
 
-            /*
-            Narrative nar = first.GetChild(i).GetComponent<Narrative>();
-            GameObject obj = nar.objToShow.gameObject;
-            obj.SetActive(true);
-            */
+         
            
 
 

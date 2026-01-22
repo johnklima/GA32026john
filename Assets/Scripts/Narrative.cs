@@ -5,7 +5,7 @@ public class Narrative : MonoBehaviour
 
     public string narration;
     public string paramName;
-    public Transform objToShow;
+    
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
