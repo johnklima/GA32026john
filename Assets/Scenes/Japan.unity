@@ -603,8 +603,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 468925d7e8fd7ad459c4271bf8b21c70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
-  narration: 
-  paramName: 
+  narration: its fleece was white as snom
+  paramName: snow
 --- !u!1 &161939742
 GameObject:
   m_ObjectHideFlags: 0
@@ -1184,7 +1184,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 468925d7e8fd7ad459c4271bf8b21c70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
-  narration: ninja they call me
+  narration: tiny ninja they call me
   paramName: ninja
 --- !u!1 &381850146
 GameObject:
@@ -1408,7 +1408,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 468925d7e8fd7ad459c4271bf8b21c70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
-  narration: Snow
+  narration: hide is snow
   paramName: snow
 --- !u!1 &392630130
 GameObject:
@@ -2323,7 +2323,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
   narration: hide was coal
-  paramName: 
+  paramName: coal
 --- !u!1 &633754861
 GameObject:
   m_ObjectHideFlags: 0
@@ -4314,7 +4314,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 468925d7e8fd7ad459c4271bf8b21c70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
-  narration: snow
+  narration: robe is snow
   paramName: snow
 --- !u!1 &1528527597
 GameObject:
@@ -5738,8 +5738,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 468925d7e8fd7ad459c4271bf8b21c70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
-  narration: 
-  paramName: 
+  narration: blacl as coll
+  paramName: cole
 --- !u!1 &1868504818
 GameObject:
   m_ObjectHideFlags: 0
@@ -5896,7 +5896,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 468925d7e8fd7ad459c4271bf8b21c70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
-  narration: coal
+  narration: robe is coal
   paramName: coal
 --- !u!1 &1995469938
 GameObject:
@@ -6075,8 +6075,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 468925d7e8fd7ad459c4271bf8b21c70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
-  narration: 
-  paramName: 
+  narration: hide is coal
+  paramName: coal
 --- !u!1 &2048487693
 GameObject:
   m_ObjectHideFlags: 0
@@ -6121,7 +6121,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 468925d7e8fd7ad459c4271bf8b21c70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
-  narration: 'mARY WENT '
+  narration: 'Mary went to school one day '
   paramName: 
 --- !u!1 &2069652434
 GameObject:
@@ -6269,7 +6269,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 468925d7e8fd7ad459c4271bf8b21c70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
-  narration: coal
+  narration: robe is black as coal
   paramName: coal
 --- !u!1 &2083627500
 GameObject:
@@ -6315,7 +6315,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 468925d7e8fd7ad459c4271bf8b21c70, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Narrative
-  narration: snow
+  narration: robe was white as snow
   paramName: snow
 --- !u!1 &2090132466
 GameObject:
