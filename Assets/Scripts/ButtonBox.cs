@@ -5,9 +5,12 @@ public class ButtonBox : MonoBehaviour
     public TheStory story;
     public int nodeNum;
 
+
+    public Material[] mats;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        GetComponent<Renderer>().material = mats[Random.Range(0, 4)];
         
     }
 

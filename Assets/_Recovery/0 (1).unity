@@ -262,12 +262,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   story: {fileID: 1804615178}
   nodeNum: 1
-  mats:
-  - {fileID: 2100000, guid: 4ab8711b04fe7924fa13c292347e0596, type: 2}
-  - {fileID: 2100000, guid: b2458c08966873a4e98db365f7c0002b, type: 2}
-  - {fileID: 2100000, guid: fcd0d4d2e84d11b48a322e7532f014a9, type: 2}
-  - {fileID: 2100000, guid: e74f0a9a7a2c9264ca8f2810d135d7dd, type: 2}
-  - {fileID: 2100000, guid: 7418d7c54af4e6145b4e02a7e6883427, type: 2}
   trigged: 0
 --- !u!114 &101094061
 MonoBehaviour:
@@ -681,12 +675,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   story: {fileID: 1804615178}
   nodeNum: 1
-  mats:
-  - {fileID: 2100000, guid: 4ab8711b04fe7924fa13c292347e0596, type: 2}
-  - {fileID: 2100000, guid: b2458c08966873a4e98db365f7c0002b, type: 2}
-  - {fileID: 2100000, guid: fcd0d4d2e84d11b48a322e7532f014a9, type: 2}
-  - {fileID: 2100000, guid: e74f0a9a7a2c9264ca8f2810d135d7dd, type: 2}
-  - {fileID: 2100000, guid: 7418d7c54af4e6145b4e02a7e6883427, type: 2}
   trigged: 0
 --- !u!114 &161939746
 MonoBehaviour:
@@ -961,12 +949,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   story: {fileID: 1804615178}
   nodeNum: 0
-  mats:
-  - {fileID: 2100000, guid: 4ab8711b04fe7924fa13c292347e0596, type: 2}
-  - {fileID: 2100000, guid: b2458c08966873a4e98db365f7c0002b, type: 2}
-  - {fileID: 2100000, guid: fcd0d4d2e84d11b48a322e7532f014a9, type: 2}
-  - {fileID: 2100000, guid: e74f0a9a7a2c9264ca8f2810d135d7dd, type: 2}
-  - {fileID: 2100000, guid: 7418d7c54af4e6145b4e02a7e6883427, type: 2}
   trigged: 0
 --- !u!114 &279274592
 MonoBehaviour:
@@ -1272,12 +1254,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   story: {fileID: 1804615178}
   nodeNum: 0
-  mats:
-  - {fileID: 2100000, guid: 4ab8711b04fe7924fa13c292347e0596, type: 2}
-  - {fileID: 2100000, guid: b2458c08966873a4e98db365f7c0002b, type: 2}
-  - {fileID: 2100000, guid: fcd0d4d2e84d11b48a322e7532f014a9, type: 2}
-  - {fileID: 2100000, guid: e74f0a9a7a2c9264ca8f2810d135d7dd, type: 2}
-  - {fileID: 2100000, guid: 7418d7c54af4e6145b4e02a7e6883427, type: 2}
   trigged: 0
 --- !u!114 &381850150
 MonoBehaviour:
@@ -1504,12 +1480,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   story: {fileID: 1804615178}
   nodeNum: 0
-  mats:
-  - {fileID: 2100000, guid: 4ab8711b04fe7924fa13c292347e0596, type: 2}
-  - {fileID: 2100000, guid: b2458c08966873a4e98db365f7c0002b, type: 2}
-  - {fileID: 2100000, guid: fcd0d4d2e84d11b48a322e7532f014a9, type: 2}
-  - {fileID: 2100000, guid: e74f0a9a7a2c9264ca8f2810d135d7dd, type: 2}
-  - {fileID: 2100000, guid: 7418d7c54af4e6145b4e02a7e6883427, type: 2}
   trigged: 0
 --- !u!114 &392630134
 MonoBehaviour:
@@ -1838,12 +1808,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   story: {fileID: 1804615178}
   nodeNum: 1
-  mats:
-  - {fileID: 2100000, guid: 4ab8711b04fe7924fa13c292347e0596, type: 2}
-  - {fileID: 2100000, guid: b2458c08966873a4e98db365f7c0002b, type: 2}
-  - {fileID: 2100000, guid: fcd0d4d2e84d11b48a322e7532f014a9, type: 2}
-  - {fileID: 2100000, guid: e74f0a9a7a2c9264ca8f2810d135d7dd, type: 2}
-  - {fileID: 2100000, guid: 7418d7c54af4e6145b4e02a7e6883427, type: 2}
   trigged: 0
 --- !u!114 &426694663
 MonoBehaviour:
@@ -2024,12 +1988,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   story: {fileID: 1804615178}
   nodeNum: 2
-  mats:
-  - {fileID: 2100000, guid: 4ab8711b04fe7924fa13c292347e0596, type: 2}
-  - {fileID: 2100000, guid: b2458c08966873a4e98db365f7c0002b, type: 2}
-  - {fileID: 2100000, guid: fcd0d4d2e84d11b48a322e7532f014a9, type: 2}
-  - {fileID: 2100000, guid: e74f0a9a7a2c9264ca8f2810d135d7dd, type: 2}
-  - {fileID: 2100000, guid: 7418d7c54af4e6145b4e02a7e6883427, type: 2}
   trigged: 0
 --- !u!114 &546481946
 MonoBehaviour:
@@ -2210,12 +2168,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   story: {fileID: 1804615178}
   nodeNum: 0
-  mats:
-  - {fileID: 2100000, guid: 4ab8711b04fe7924fa13c292347e0596, type: 2}
-  - {fileID: 2100000, guid: b2458c08966873a4e98db365f7c0002b, type: 2}
-  - {fileID: 2100000, guid: fcd0d4d2e84d11b48a322e7532f014a9, type: 2}
-  - {fileID: 2100000, guid: e74f0a9a7a2c9264ca8f2810d135d7dd, type: 2}
-  - {fileID: 2100000, guid: 7418d7c54af4e6145b4e02a7e6883427, type: 2}
   trigged: 0
 --- !u!114 &575974001
 MonoBehaviour:
@@ -2443,12 +2395,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   story: {fileID: 1804615178}
   nodeNum: 1
-  mats:
-  - {fileID: 2100000, guid: 4ab8711b04fe7924fa13c292347e0596, type: 2}
-  - {fileID: 2100000, guid: b2458c08966873a4e98db365f7c0002b, type: 2}
-  - {fileID: 2100000, guid: fcd0d4d2e84d11b48a322e7532f014a9, type: 2}
-  - {fileID: 2100000, guid: e74f0a9a7a2c9264ca8f2810d135d7dd, type: 2}
-  - {fileID: 2100000, guid: 7418d7c54af4e6145b4e02a7e6883427, type: 2}
   trigged: 0
 --- !u!114 &633754865
 MonoBehaviour:
@@ -2627,12 +2573,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   story: {fileID: 1804615178}
   nodeNum: 0
-  mats:
-  - {fileID: 2100000, guid: 4ab8711b04fe7924fa13c292347e0596, type: 2}
-  - {fileID: 2100000, guid: b2458c08966873a4e98db365f7c0002b, type: 2}
-  - {fileID: 2100000, guid: fcd0d4d2e84d11b48a322e7532f014a9, type: 2}
-  - {fileID: 2100000, guid: e74f0a9a7a2c9264ca8f2810d135d7dd, type: 2}
-  - {fileID: 2100000, guid: 7418d7c54af4e6145b4e02a7e6883427, type: 2}
   trigged: 0
 --- !u!114 &756873759
 MonoBehaviour:
@@ -2890,12 +2830,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   story: {fileID: 1804615178}
   nodeNum: 1
-  mats:
-  - {fileID: 2100000, guid: 4ab8711b04fe7924fa13c292347e0596, type: 2}
-  - {fileID: 2100000, guid: b2458c08966873a4e98db365f7c0002b, type: 2}
-  - {fileID: 2100000, guid: fcd0d4d2e84d11b48a322e7532f014a9, type: 2}
-  - {fileID: 2100000, guid: e74f0a9a7a2c9264ca8f2810d135d7dd, type: 2}
-  - {fileID: 2100000, guid: 7418d7c54af4e6145b4e02a7e6883427, type: 2}
   trigged: 0
 --- !u!114 &801589970
 MonoBehaviour:
@@ -3171,12 +3105,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   story: {fileID: 1804615178}
   nodeNum: 0
-  mats:
-  - {fileID: 2100000, guid: 4ab8711b04fe7924fa13c292347e0596, type: 2}
-  - {fileID: 2100000, guid: b2458c08966873a4e98db365f7c0002b, type: 2}
-  - {fileID: 2100000, guid: fcd0d4d2e84d11b48a322e7532f014a9, type: 2}
-  - {fileID: 2100000, guid: e74f0a9a7a2c9264ca8f2810d135d7dd, type: 2}
-  - {fileID: 2100000, guid: 7418d7c54af4e6145b4e02a7e6883427, type: 2}
   trigged: 0
 --- !u!114 &867857204
 MonoBehaviour:
@@ -3651,12 +3579,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   story: {fileID: 1804615178}
   nodeNum: 1
-  mats:
-  - {fileID: 2100000, guid: 4ab8711b04fe7924fa13c292347e0596, type: 2}
-  - {fileID: 2100000, guid: b2458c08966873a4e98db365f7c0002b, type: 2}
-  - {fileID: 2100000, guid: fcd0d4d2e84d11b48a322e7532f014a9, type: 2}
-  - {fileID: 2100000, guid: e74f0a9a7a2c9264ca8f2810d135d7dd, type: 2}
-  - {fileID: 2100000, guid: 7418d7c54af4e6145b4e02a7e6883427, type: 2}
   trigged: 0
 --- !u!114 &1274719305
 MonoBehaviour:
@@ -3838,12 +3760,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   story: {fileID: 1804615178}
   nodeNum: 0
-  mats:
-  - {fileID: 2100000, guid: 4ab8711b04fe7924fa13c292347e0596, type: 2}
-  - {fileID: 2100000, guid: b2458c08966873a4e98db365f7c0002b, type: 2}
-  - {fileID: 2100000, guid: fcd0d4d2e84d11b48a322e7532f014a9, type: 2}
-  - {fileID: 2100000, guid: e74f0a9a7a2c9264ca8f2810d135d7dd, type: 2}
-  - {fileID: 2100000, guid: 7418d7c54af4e6145b4e02a7e6883427, type: 2}
   trigged: 0
 --- !u!114 &1335109847
 MonoBehaviour:
@@ -4022,12 +3938,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   story: {fileID: 1804615178}
   nodeNum: 1
-  mats:
-  - {fileID: 2100000, guid: 4ab8711b04fe7924fa13c292347e0596, type: 2}
-  - {fileID: 2100000, guid: b2458c08966873a4e98db365f7c0002b, type: 2}
-  - {fileID: 2100000, guid: fcd0d4d2e84d11b48a322e7532f014a9, type: 2}
-  - {fileID: 2100000, guid: e74f0a9a7a2c9264ca8f2810d135d7dd, type: 2}
-  - {fileID: 2100000, guid: 7418d7c54af4e6145b4e02a7e6883427, type: 2}
   trigged: 0
 --- !u!114 &1363945354
 MonoBehaviour:
@@ -4474,12 +4384,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   story: {fileID: 1804615178}
   nodeNum: 0
-  mats:
-  - {fileID: 2100000, guid: 4ab8711b04fe7924fa13c292347e0596, type: 2}
-  - {fileID: 2100000, guid: b2458c08966873a4e98db365f7c0002b, type: 2}
-  - {fileID: 2100000, guid: fcd0d4d2e84d11b48a322e7532f014a9, type: 2}
-  - {fileID: 2100000, guid: e74f0a9a7a2c9264ca8f2810d135d7dd, type: 2}
-  - {fileID: 2100000, guid: 7418d7c54af4e6145b4e02a7e6883427, type: 2}
   trigged: 0
 --- !u!114 &1528527601
 MonoBehaviour:
@@ -4869,12 +4773,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   story: {fileID: 1804615178}
   nodeNum: 1
-  mats:
-  - {fileID: 2100000, guid: 4ab8711b04fe7924fa13c292347e0596, type: 2}
-  - {fileID: 2100000, guid: b2458c08966873a4e98db365f7c0002b, type: 2}
-  - {fileID: 2100000, guid: fcd0d4d2e84d11b48a322e7532f014a9, type: 2}
-  - {fileID: 2100000, guid: e74f0a9a7a2c9264ca8f2810d135d7dd, type: 2}
-  - {fileID: 2100000, guid: 7418d7c54af4e6145b4e02a7e6883427, type: 2}
   trigged: 0
 --- !u!114 &1698839898
 MonoBehaviour:
@@ -5053,12 +4951,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   story: {fileID: 1804615178}
   nodeNum: 0
-  mats:
-  - {fileID: 2100000, guid: 4ab8711b04fe7924fa13c292347e0596, type: 2}
-  - {fileID: 2100000, guid: b2458c08966873a4e98db365f7c0002b, type: 2}
-  - {fileID: 2100000, guid: fcd0d4d2e84d11b48a322e7532f014a9, type: 2}
-  - {fileID: 2100000, guid: e74f0a9a7a2c9264ca8f2810d135d7dd, type: 2}
-  - {fileID: 2100000, guid: 7418d7c54af4e6145b4e02a7e6883427, type: 2}
   trigged: 0
 --- !u!114 &1715818150
 MonoBehaviour:
@@ -5418,12 +5310,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   story: {fileID: 1804615178}
   nodeNum: 1
-  mats:
-  - {fileID: 2100000, guid: 4ab8711b04fe7924fa13c292347e0596, type: 2}
-  - {fileID: 2100000, guid: b2458c08966873a4e98db365f7c0002b, type: 2}
-  - {fileID: 2100000, guid: fcd0d4d2e84d11b48a322e7532f014a9, type: 2}
-  - {fileID: 2100000, guid: e74f0a9a7a2c9264ca8f2810d135d7dd, type: 2}
-  - {fileID: 2100000, guid: 7418d7c54af4e6145b4e02a7e6883427, type: 2}
   trigged: 0
 --- !u!114 &1763525419
 MonoBehaviour:
@@ -5604,12 +5490,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: '::'
   story: {fileID: 1804615178}
   nodeNum: 2
-  mats:
-  - {fileID: 2100000, guid: 4ab8711b04fe7924fa13c292347e0596, type: 2}
-  - {fileID: 2100000, guid: b2458c08966873a4e98db365f7c0002b, type: 2}
-  - {fileID: 2100000, guid: fcd0d4d2e84d11b48a322e7532f014a9, type: 2}
-  - {fileID: 2100000, guid: e74f0a9a7a2c9264ca8f2810d135d7dd, type: 2}
-  - {fileID: 2100000, guid: 7418d7c54af4e6145b4e02a7e6883427, type: 2}
   trigged: 0
 --- !u!114 &1764231195
 MonoBehaviour:
