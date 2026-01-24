@@ -18,7 +18,7 @@ public class SyntyWater_customGUI : ShaderGUI
 
     void CheckRenderPipeline()
     {
-        var pipelineAsset = GraphicsSettings.defaultRenderPipeline;
+        var pipelineAsset = GraphicsSettings.renderPipelineAsset;
 
         if (pipelineAsset == null)
         {

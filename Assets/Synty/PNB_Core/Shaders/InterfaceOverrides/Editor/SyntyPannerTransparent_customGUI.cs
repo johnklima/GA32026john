@@ -35,7 +35,7 @@ public class SyntyPannerTransparent_customGUI : ShaderGUI
 
     void CheckRenderPipeline()
     {
-        var pipelineAsset = GraphicsSettings.defaultRenderPipeline;
+        var pipelineAsset = GraphicsSettings.renderPipelineAsset;
 
         if (pipelineAsset == null)
         {
