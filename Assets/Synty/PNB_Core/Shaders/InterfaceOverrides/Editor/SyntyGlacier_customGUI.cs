@@ -18,7 +18,7 @@ public class SyntyGlacier_customGUI : ShaderGUI
 
     void CheckRenderPipeline()
     {
-        var pipelineAsset = GraphicsSettings.renderPipelineAsset;
+        var pipelineAsset = GraphicsSettings.defaultRenderPipeline;
 
         if (pipelineAsset == null)
         {
