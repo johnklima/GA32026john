@@ -72,12 +72,11 @@ public class TheStory : MonoBehaviour
 
     public void OnClick(int nodeNum)
     {
-        Debug.Log("a click  " + first.name);
-
+       
         hideButtons();
 
-     
-        first = first.GetChild(nodeNum);
+        if(first.childCount > nodeNum)
+            first = first.GetChild(nodeNum);
         
         Debug.Log("a click" + nodeNum + " " + first.name);
 

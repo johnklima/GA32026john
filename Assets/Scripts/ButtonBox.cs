@@ -1,3 +1,5 @@
+using FMOD;
+using UnityEditor.EventSystems;
 using UnityEngine;
 
 public class ButtonBox : MonoBehaviour
@@ -5,7 +7,7 @@ public class ButtonBox : MonoBehaviour
     public TheStory story;
     public int nodeNum;
     public Transform friend;
-
+   
     public Material[] mats;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -30,17 +32,17 @@ public class ButtonBox : MonoBehaviour
         if (trigged) return;
         trigged = true;
 
-        Debug.Log("HIT " + other.name);
+        UnityEngine.Debug.Log("HIT " + other.name);
 
         //Animation anim = GetComponent<Animation>();
         //anim.Play();
 
-        foreach(Transform nextT in transform)
+        foreach (Transform nextT in transform)
         {
             nextT.gameObject.SetActive(true);
         }
-
         story.OnClick(nodeNum);
+
     }
 
     private void OnEnable()

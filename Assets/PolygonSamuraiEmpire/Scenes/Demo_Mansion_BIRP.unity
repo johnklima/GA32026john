@@ -64610,7 +64610,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3620231149454236416, guid: 3148358f4f418d54b8a20008fb818794, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.859
+      value: -0.9852191
       objectReference: {fileID: 0}
     - target: {fileID: 3620231149454236416, guid: 3148358f4f418d54b8a20008fb818794, type: 3}
       propertyPath: m_LocalPosition.y
@@ -64618,11 +64618,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3620231149454236416, guid: 3148358f4f418d54b8a20008fb818794, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.629
+      value: 2.3632767
       objectReference: {fileID: 0}
     - target: {fileID: 3620231149454236416, guid: 3148358f4f418d54b8a20008fb818794, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.8149853
+      value: -0.3738199
       objectReference: {fileID: 0}
     - target: {fileID: 3620231149454236416, guid: 3148358f4f418d54b8a20008fb818794, type: 3}
       propertyPath: m_LocalRotation.x
@@ -64630,7 +64630,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3620231149454236416, guid: 3148358f4f418d54b8a20008fb818794, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0.57948166
+      value: -0.9275014
       objectReference: {fileID: 0}
     - target: {fileID: 3620231149454236416, guid: 3148358f4f418d54b8a20008fb818794, type: 3}
       propertyPath: m_LocalRotation.z
@@ -64642,7 +64642,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3620231149454236416, guid: 3148358f4f418d54b8a20008fb818794, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -70.828
+      value: -4543.903
       objectReference: {fileID: 0}
     - target: {fileID: 3620231149454236416, guid: 3148358f4f418d54b8a20008fb818794, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -74070,9 +74070,33 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 453884747722791850, guid: dda3f25904d28204f8ade16ade71f36f, type: 3}
+      propertyPath: narration
+      value: Youn need to choose which drum
+      objectReference: {fileID: 0}
+    - target: {fileID: 517313785738445304, guid: dda3f25904d28204f8ade16ade71f36f, type: 3}
+      propertyPath: narration
+      value: you can meet a ninja
+      objectReference: {fileID: 0}
+    - target: {fileID: 641279543630508945, guid: dda3f25904d28204f8ade16ade71f36f, type: 3}
+      propertyPath: narration
+      value: you can meet a sensei
+      objectReference: {fileID: 0}
+    - target: {fileID: 959370920309332144, guid: dda3f25904d28204f8ade16ade71f36f, type: 3}
+      propertyPath: narration
+      value: the gentle drum
+      objectReference: {fileID: 0}
     - target: {fileID: 1147138969803537285, guid: dda3f25904d28204f8ade16ade71f36f, type: 3}
       propertyPath: m_Name
       value: TheStory
+      objectReference: {fileID: 0}
+    - target: {fileID: 2424561570406577489, guid: dda3f25904d28204f8ade16ade71f36f, type: 3}
+      propertyPath: narration
+      value: You can meet a Geisha
+      objectReference: {fileID: 0}
+    - target: {fileID: 2440633867795354640, guid: dda3f25904d28204f8ade16ade71f36f, type: 3}
+      propertyPath: narration
+      value: or the loud drum
       objectReference: {fileID: 0}
     - target: {fileID: 7094087928319360453, guid: dda3f25904d28204f8ade16ade71f36f, type: 3}
       propertyPath: 'button.Array.data[0]'
@@ -91812,7 +91836,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!33 &456508641525264609
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -92477,7 +92501,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!137 &1612292748086324902
 SkinnedMeshRenderer:
   m_ObjectHideFlags: 0
@@ -93688,7 +93712,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!65 &3212952451728432437
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -94850,8 +94874,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5249764360258731742}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0.6540688, z: -0, w: 0.75643504}
-  m_LocalPosition: {x: 2.0075216, y: -0.04201007, z: -0.009325851}
+  m_LocalRotation: {x: -0, y: 0.35488614, z: -0, w: 0.9349096}
+  m_LocalPosition: {x: -0.18336192, y: -0.04201007, z: -2.79898}
   m_LocalScale: {x: 1.1591002, y: 1.1591, z: 1.1591002}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -94874,7 +94898,7 @@ Transform:
   - {fileID: 8044357182587407028}
   - {fileID: 613006558}
   m_Father: {fileID: 559765150}
-  m_LocalEulerAnglesHint: {x: 0, y: -81.698, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 2201.573, z: 0}
 --- !u!1 &4912407315928980043
 GameObject:
   m_ObjectHideFlags: 0
@@ -97623,7 +97647,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
