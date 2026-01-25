@@ -40636,6 +40636,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6591791351019894553, guid: 2ea92e5bb11a1894586ac25cac3c1872, type: 3}
   m_PrefabInstance: {fileID: 958640749}
   m_PrefabAsset: {fileID: 0}
+--- !u!4 &959258526 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3852384514910222544, guid: dda3f25904d28204f8ade16ade71f36f, type: 3}
+  m_PrefabInstance: {fileID: 1722459530}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &959441923
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -74098,6 +74103,10 @@ PrefabInstance:
       propertyPath: narration
       value: or the loud drum
       objectReference: {fileID: 0}
+    - target: {fileID: 5689905199061064238, guid: dda3f25904d28204f8ade16ade71f36f, type: 3}
+      propertyPath: paramName
+      value: went
+      objectReference: {fileID: 0}
     - target: {fileID: 7094087928319360453, guid: dda3f25904d28204f8ade16ade71f36f, type: 3}
       propertyPath: 'button.Array.data[0]'
       value: 
@@ -74156,7 +74165,13 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
-    m_AddedGameObjects: []
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: 3852384514910222544, guid: dda3f25904d28204f8ade16ade71f36f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2021547913}
+    - targetCorrespondingSourceObject: {fileID: 3852384514910222544, guid: dda3f25904d28204f8ade16ade71f36f, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1934161961}
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dda3f25904d28204f8ade16ade71f36f, type: 3}
 --- !u!1001 &1723434592
@@ -81666,6 +81681,52 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 623383979837197571, guid: b8ffa2b6298ebb047918b587d259a540, type: 3}
   m_PrefabInstance: {fileID: 1934105619}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1934161960
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1934161961}
+  - component: {fileID: 1934161962}
+  m_Layer: 0
+  m_Name: To Shed
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1934161961
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1934161960}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -1.172}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 959258526}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1934161962
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1934161960}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468925d7e8fd7ad459c4271bf8b21c70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Narrative
+  narration: Shed
+  paramName: shed
 --- !u!1001 &1934308270
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -86459,6 +86520,52 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4380121407759822517, guid: 332ee152075e1bb45aab65652b9ae4ce, type: 3}
   m_PrefabInstance: {fileID: 2021536648}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &2021547912
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2021547913}
+  - component: {fileID: 2021547914}
+  m_Layer: 0
+  m_Name: To School
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2021547913
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2021547912}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -0.938}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 959258526}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2021547914
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2021547912}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 468925d7e8fd7ad459c4271bf8b21c70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Narrative
+  narration: School
+  paramName: school
 --- !u!1001 &2023285803
 PrefabInstance:
   m_ObjectHideFlags: 0

@@ -86,6 +86,8 @@ public class TheStory : MonoBehaviour
         if(first.childCount == 0)
         {
             depth++;
+
+            Debug.Log("depth " + depth);
             first = transform.GetChild(depth);
             
         }
