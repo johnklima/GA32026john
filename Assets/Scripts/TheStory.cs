@@ -83,9 +83,12 @@ public class TheStory : MonoBehaviour
         string parm = first.GetComponent<Narrative>().paramName;
         anim.SetTrigger(parm);
 
+
+
+        //big problem here.
         if(first.childCount == 0)
         {
-            depth++;
+            depth = 1;
 
             Debug.Log("depth " + depth);
             first = transform.GetChild(depth);
