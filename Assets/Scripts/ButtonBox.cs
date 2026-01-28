@@ -35,7 +35,16 @@ public class ButtonBox : MonoBehaviour
             trigged = 2;
             //if (CameraEventEmitter)
             {
-                UnityEngine.Debug.Log("BBB");
+                //turn all params off
+
+                for(int i = 0; i < CameraEventEmitter.Params.Length; i++ )
+                {
+                    UnityEngine.Debug.Log(CameraEventEmitter.Params[i].Name);
+                    CameraEventEmitter.SetParameter( CameraEventEmitter.Params[i].Name, 0);
+                }
+
+
+                UnityEngine.Debug.Log("turn on " + paramName);
                 CameraEventEmitter.SetParameter(paramName, 1);
             }
 
