@@ -33,8 +33,13 @@ public class ButtonBox : MonoBehaviour
         {
             story.OnClick(nodeNum);
             trigged = 2;
+            //if (CameraEventEmitter)
+            {
+                UnityEngine.Debug.Log("BBB");
+                CameraEventEmitter.SetParameter(paramName, 1);
+            }
 
-            
+
 
         }
     }
@@ -59,11 +64,7 @@ public class ButtonBox : MonoBehaviour
         {
             nextT.gameObject.SetActive(true);
         }
-        if (CameraEventEmitter)
-        {
-            UnityEngine.Debug.Log("BBB");
-            CameraEventEmitter.SetParameter(paramName, 1);
-        }
+        
     }
 
     private void OnEnable()
