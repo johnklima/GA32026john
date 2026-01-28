@@ -463,8 +463,8 @@ MonoBehaviour:
   switchSettingsMigration: 1
   HasSourceProject: 1
   HasPlatforms: 1
-  sourceProjectPath: FMOD/Japan/Japan.fspro
-  sourceBankPath: FMOD/Japan/Build
+  sourceProjectPath: FMOD/japan2/japan2.fspro
+  sourceBankPath: FMOD/japan2/Build
   sourceBankPathUnformatted: 
   BankRefreshCooldown: 5
   ShowBankRefreshWindow: 1

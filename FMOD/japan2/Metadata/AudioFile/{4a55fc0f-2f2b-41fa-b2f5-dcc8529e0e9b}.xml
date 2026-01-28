@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{4a55fc0f-2f2b-41fa-b2f5-dcc8529e0e9b}">
+		<property name="assetPath">
+			<value>157696__urupin__cow-herd-with-hand-bells-wind-music.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>302.88979591836733</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{890e219f-1b7a-47e0-94a8-716b8056a8b3}</destination>
+		</relationship>
+	</object>
+</objects>

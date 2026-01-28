@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{6433255f-71e9-41bb-839a-f1c137d79fff}">
+		<property name="assetPath">
+			<value>85102__juskiddink__marching-tune - Trimmed.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.7984807256235826</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{890e219f-1b7a-47e0-94a8-716b8056a8b3}</destination>
+		</relationship>
+	</object>
+</objects>

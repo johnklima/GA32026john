@@ -26069,11 +26069,11 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: 407383785
-      Data2: 1145113168
-      Data3: -235369308
-      Data4: 1457114129
-    Path: event:/235040__reitanna__japanese-i-understand
+      Data1: -915304879
+      Data2: 1221321014
+      Data3: -1721633378
+      Data4: 938117371
+    Path: event:/235095__reitanna__japanese-friday
   Event: 
   EventPlayTrigger: 3
   EventStopTrigger: 0
@@ -48182,11 +48182,11 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: 667031867
-      Data2: 1218757282
-      Data3: 155415481
-      Data4: 1520066192
-    Path: event:/235094__reitanna__japanese-excuse-me3
+      Data1: -915304879
+      Data2: 1221321014
+      Data3: -1721633378
+      Data4: 938117371
+    Path: event:/235095__reitanna__japanese-friday
   Event: 
   EventPlayTrigger: 3
   EventStopTrigger: 0
@@ -53712,11 +53712,11 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: -1588401566
-      Data2: 1230597641
-      Data3: 5231023
-      Data4: 1624465573
-    Path: event:/785129__vrymaa__tsuki-ga-kirei
+      Data1: -915304879
+      Data2: 1221321014
+      Data3: -1721633378
+      Data4: 938117371
+    Path: event:/Music
   Event: 
   EventPlayTrigger: 1
   EventStopTrigger: 0
@@ -53727,9 +53727,9 @@ MonoBehaviour:
   Params:
   - Name: Intense
     Value: 0
-  OverrideAttenuation: 1
+  OverrideAttenuation: 0
   OverrideMinDistance: 1
-  OverrideMaxDistance: 10
+  OverrideMaxDistance: 20
 --- !u!1001 &1302570097
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -93173,11 +93173,11 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: 667031867
-      Data2: 1218757282
-      Data3: 155415481
-      Data4: 1520066192
-    Path: event:/235094__reitanna__japanese-excuse-me3
+      Data1: -915304879
+      Data2: 1221321014
+      Data3: -1721633378
+      Data4: 938117371
+    Path: event:/235095__reitanna__japanese-friday
   Event: 
   EventPlayTrigger: 3
   EventStopTrigger: 0
@@ -93522,11 +93522,11 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: 1576277199
-      Data2: 1173641046
-      Data3: -302093936
-      Data4: 1988319093
-    Path: event:/little
+      Data1: 1030747730
+      Data2: 1315355734
+      Data3: 979105458
+      Data4: 585983730
+    Path: event:/428611__hallkev__timpani-roll-kevinsticks
   Event: 
   EventPlayTrigger: 3
   EventStopTrigger: 0
@@ -95048,10 +95048,10 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: 407383785
-      Data2: 1145113168
-      Data3: -235369308
-      Data4: 1457114129
+      Data1: 1904140463
+      Data2: 1101881785
+      Data3: -191569747
+      Data4: -1400035167
     Path: event:/235040__reitanna__japanese-i-understand
   Event: 
   EventPlayTrigger: 3

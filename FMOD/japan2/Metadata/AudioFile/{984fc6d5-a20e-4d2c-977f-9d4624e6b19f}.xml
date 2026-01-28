@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{984fc6d5-a20e-4d2c-977f-9d4624e6b19f}">
+		<property name="assetPath">
+			<value>785129__vrymaa__tsuki-ga-kirei.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>76.363645833333337</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{890e219f-1b7a-47e0-94a8-716b8056a8b3}</destination>
+		</relationship>
+	</object>
+</objects>
